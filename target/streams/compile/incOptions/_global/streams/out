@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/beluamd/repos/scalaRepos/doobie-app/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Debugger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$anon$generic$macro$12$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$DirectorLastName$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Director$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Director$anon$generic$macro$15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$DirectorFirstName$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$DirectorId$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$ActorName$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Actor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$DirectorFirstName.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$DirectorLastName.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$DirectorId.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$ActorName.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Movie.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Movie$anon$generic$macro$22$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Movie$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$anon$generic$macro$18$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$anon$generic$macro$12$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Director$anon$generic$macro$31$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$anon$generic$macro$12$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Movie$anon$generic$macro$45$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$anon$generic$macro$12$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Actor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DoobieApp$Director.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/beluamd/repos/scalaRepos/doobie-app/target/scala-2.13/classes.bak[0m

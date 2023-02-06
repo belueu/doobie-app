@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/beluamd/repos/scalaRepos/doobie-app/src/main/scala/DoobieApp.scala:31:81: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: List(_), Nil[0m
+[0m[[0m[33mwarn[0m] [0m[0m    implicit val listStringWrite: Write[List[String]] = Write[String].contramap {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
